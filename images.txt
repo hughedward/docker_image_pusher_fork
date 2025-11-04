@@ -2,6 +2,10 @@ nginx
 mysql
 postgres
 redis
+
+ghcr.io/bytebot-ai/bytebot-desktop:edge
+
+
 #支持私库 1 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
