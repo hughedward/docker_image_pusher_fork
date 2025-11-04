@@ -4,7 +4,9 @@ postgres
 redis
 
 ghcr.io/bytebot-ai/bytebot-desktop:edge
-
+ghcr.io/bytebot-ai/bytebot-agent:edge
+ghcr.io/bytebot-ai/bytebot-ui:edge
+postgres:16-alpine
 
 #支持私库 1 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
