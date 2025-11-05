@@ -7,7 +7,7 @@ ghcr.io/bytebot-ai/bytebot-desktop:edge
 ghcr.io/bytebot-ai/bytebot-agent:edge
 ghcr.io/bytebot-ai/bytebot-ui:edge
 postgres:16-alpine
-
+ghcr.io/berriai/litellm:main-stable
 #支持私库 1 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
